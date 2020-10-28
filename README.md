@@ -1,4 +1,4 @@
-# raceConditions
+# RaceConditions
 Race conditions
 
 Project objective
